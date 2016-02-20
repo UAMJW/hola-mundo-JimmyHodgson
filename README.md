@@ -1,8 +1,10 @@
 # Hola Mundo
 
-| **Proyecto** | Hola Mundo |
-| **Versión**  | 1.0.0      |
-| **Autor**    |Jimmy Hodgson|
+| **Proyecto** | **Versión**  |  **Autor**  |
+|--------------|--------------|-------------|
+|Hola Mundo    |1.0.0         |Jimmy Hodgson|
+
+
 
 ## Descripción
 
